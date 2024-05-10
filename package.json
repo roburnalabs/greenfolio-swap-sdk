@@ -2,7 +2,7 @@
   "name": "@greenfolio/sdk",
   "license": "MIT",
   "version": "0.0.9",
-  "description": "🛠 An SDK for building applications on top of greenfolio.",
+  "description": "\ud83d\udee0 An SDK for building applications on top of greenfolio.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -30,7 +30,9 @@
   "dependencies": {
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
+    "dotenv": "^8.2.0",
     "jsbi": "^3.1.4",
+    "node-fetch": "^3.3.2",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3",
     "toformat": "^2.0.0"
